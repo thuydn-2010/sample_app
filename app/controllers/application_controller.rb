@@ -5,3 +5,5 @@ class ApplicationController < ActionController::Base
     render html: "hello MCThuy"
   end
 end
+
+# Lam den muc 5.4
